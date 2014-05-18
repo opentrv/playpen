@@ -1,1 +1,1 @@
-Do we really need to have empty files to be able to version directories like in CVS days?
+Do we really need to have empty files to be able to check-in/version directories like in CVS days?
