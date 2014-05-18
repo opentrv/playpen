@@ -1,0 +1,1 @@
+Do we really need to have empty files to be able to version directories like in CVS days?
